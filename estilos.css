@@ -1,0 +1,33 @@
+h1{
+    color: rgb(97, 187, 135);
+    
+}
+
+img{
+    font-size: 30px;
+    ;
+}
+#btnCalcular{
+    color: rgb(97, 187, 135);
+    font-size: 20px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+#txtAltura{
+    margin-top: 20px;
+    justify-content: center;
+}
+#txtPeso{
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.texto{
+    text-align: center;
+
+}
+
+
+
+ 
